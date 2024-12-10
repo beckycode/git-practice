@@ -23,6 +23,7 @@ p {
 main {
   display: flex;
 }
+
 .header{
   display: flex;
   justify-content: center;
@@ -50,4 +51,11 @@ main {
 
 .feature-a img {
   max-width: 300px;
+}
+
+.feature-b {
+  background-color:rgb(101, 192, 116);
+  border-radius: 20px;
+  padding: 10px;
+  color: rgb(248, 252, 255);
 }
