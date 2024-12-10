@@ -34,4 +34,9 @@ p {
   color: azure;
   background-color: rgb(50, 126, 187);
   margin: 10px;
+  width: 500px;
+}
+
+.feature-a img {
+  max-width: 300px;
 }
