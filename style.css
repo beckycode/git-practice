@@ -41,8 +41,8 @@ main {
   width: fit-content;
   padding: 10px;
   margin: 10px;
-  width: 500px;
   color: azure;
+  max-width: 500px;
 }
 .feature-a {
   background-color: rgb(50, 126, 187);
